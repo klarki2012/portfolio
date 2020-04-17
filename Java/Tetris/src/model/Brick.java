@@ -1,4 +1,4 @@
-package tetris.model;
+package model;
 
 import java.awt.Color;
 import java.util.ArrayList;
@@ -6,7 +6,9 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-import tetris.constants.*;
+import constants.Constants;
+import constants.Tetraminos;
+
 
 public class Brick {
 

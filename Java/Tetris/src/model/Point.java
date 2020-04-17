@@ -1,4 +1,4 @@
-package tetris.model;
+package model;
 
 public class Point {
 	

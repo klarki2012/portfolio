@@ -1,4 +1,4 @@
-package tetris.constants;
+package constants;
 
 import java.awt.Point;
 

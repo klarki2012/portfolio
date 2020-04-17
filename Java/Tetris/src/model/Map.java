@@ -1,8 +1,8 @@
-package tetris.model;
+package model;
 
 import java.awt.Color;
 
-import tetris.constants.Constants;
+import constants.Constants;
 
 public class Map {
 	private Color[][] pixelsMatrix;

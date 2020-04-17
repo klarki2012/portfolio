@@ -1,4 +1,4 @@
-package tetris.view;
+package view;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -6,9 +6,11 @@ import java.awt.Graphics;
 
 import javax.swing.JPanel;
 
-import tetris.constants.*;
+import constants.Constants;
+import model.Brick;
+import model.Model;
+import model.Point;
 
-import tetris.model.*;
 
 
 public class TetrisPanel extends JPanel {

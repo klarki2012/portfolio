@@ -1,9 +1,10 @@
-package tetris.view;
+package view;
 
 import java.awt.BorderLayout;
 
 import javax.swing.JFrame;
-import tetris.constants.Constants;
+
+import constants.Constants;
 
 public class MainView extends JFrame {
 

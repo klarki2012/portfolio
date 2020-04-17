@@ -1,4 +1,4 @@
-package tetris;
+
 
 import java.awt.Color;
 import java.awt.Component;
@@ -11,8 +11,8 @@ import java.util.Observer;
 
 import javax.swing.JOptionPane;
 
-import tetris.view.MainView;
-import tetris.model.Model;
+import model.Model;
+import view.MainView;
 
 public class Controller implements KeyListener, Observer {
 
